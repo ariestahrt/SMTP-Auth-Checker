@@ -1,0 +1,7 @@
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\bin\Debug\HeartSMTP.exe.config
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\bin\Debug\HeartSMTP.exe
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\bin\Debug\HeartSMTP.pdb
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\obj\Debug\HeartSMTP.csprojAssemblyReference.cache
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\obj\Debug\HeartSMTP.csproj.CoreCompileInputs.cache
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\obj\Debug\HeartSMTP.exe
+c:\users\atseira\source\repos\HeartSMTP\HeartSMTP\obj\Debug\HeartSMTP.pdb
